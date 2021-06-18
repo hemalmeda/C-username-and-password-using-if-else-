@@ -23,11 +23,11 @@ int main ()
     {
       cout << "Wrong username try again\n username:";
       cin>>a;
-       if (a == "hemalmeda@gmail.com")
+       if (a == "coder123")
     {
      cout<<"password : ";
      cin>> b;
-     if(b=="HEMAL@!@#$"){
+     if(b=="jscpp"){
          cout<<"correct!";
      }
      else{
